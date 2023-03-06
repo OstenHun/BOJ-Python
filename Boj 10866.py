@@ -1,8 +1,7 @@
 """
 "문제 풀이 아이디어"
 -> collections 라이브러리 속 deque을 이용해서 풀 수 있다고 생각했다.
-('문제 제목부터 덱 인점, pop(), append(), popleft(), appendleft()를 이용하면 좋은 상황 제시' 
-따라서 deque을 연습해보는 문제라고 판단)
+('문제 제목부터 덱 인점, pop(), append(), popleft(), appendleft()를 이용하면 좋은 상황 제시' 따라서 deque을 연습해보는 문제라고 판단)
 """
 
 # 내 풀이
