@@ -13,7 +13,7 @@ N, K = map(int, sys.stdin.readline().rstrip().split())
 L = []
 for _ in range(N):
 	L.append(int(sys.stdin.readline().rstrip()))
-for i in range(N):
+for _ in range(N):
 	if L[len(L) - 1] > K:
 		L.pop()
 
