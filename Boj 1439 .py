@@ -39,7 +39,7 @@ for i in range(len(data) - 1):
 			cnt1 += 1
 print(min(cnt0, cnt1))
 
-******* # 생각도 못한 훨씬 좋은 알고리즘 *******
+# ******* 생각도 못한 훨씬 좋은 알고리즘 *******
 a = input()
 print(max(a.count('01'), a.count('10')))
 
